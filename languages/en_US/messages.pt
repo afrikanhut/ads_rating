@@ -9,11 +9,11 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: English\n"
+"X-Poedit-Language: Portuguese\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-KeywordsList: _e;__\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-Country: BRAZIL\n"
 "X-Poedit-SearchPath-0: /Users/ssuareza/projects/osclass-plugins/voting\n"
 
 #: /Users/ssuareza/projects/osclass-plugins/voting/conf.php:51
